@@ -28,3 +28,5 @@ This is a react task for UseContext task which is done using react in vite.
 3. Price after discount
 4. Final Price after quantity :- Increases when the quantity is increased
 5. Buy now
+
+when the quantity is increased the amount will increased, the remove button will clear the quantity
